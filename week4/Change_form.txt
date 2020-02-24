@@ -1,0 +1,8 @@
+Hyundai
+2006Tucson
+Mitsubishi
+2015Outlander
+Ford
+1998Focus
+Tesla
+2019Model3
