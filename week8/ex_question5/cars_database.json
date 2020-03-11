@@ -1,0 +1,16 @@
+{
+    "make": ["Hyundai",
+            "Mitsubishi",
+            "Ford"
+        ],
+
+    "model": ["Tucson",
+            "Outlander",
+            "Focus"
+        ],
+    "year": [2006,
+            2015,
+            1998
+        ]
+
+}
